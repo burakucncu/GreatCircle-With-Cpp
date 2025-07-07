@@ -58,7 +58,7 @@ Enter latitude of first point: 39.9208 (latitude of Ankara, Turkey)
 Enter longitude of first point: 32.8541 (longitude of Ankara,Turkey)
 Enter latitude of second point: 41.0082 (latitude of Istanbul, Turkey)
 Enter longitude of second point: 28.9784 (longitude of Istanbul, Turkey)
-Distance between the two points: 8057.12 km
+Distance between the two points: 349.422 km
 ```
 
 This example calculates the distance between Istanbul (41.0082°N, 28.9784°E) and New York (40.7128°N, 74.0060°W).
