@@ -54,10 +54,10 @@ When the program runs, you will be prompted to enter the following information i
 ## 📝 Example Usage
 
 ```
-Enter latitude of first point: 41.0082
-Enter longitude of first point: 28.9784
-Enter latitude of second point: 40.7128
-Enter longitude of second point: -74.0060
+Enter latitude of first point: 39.9208 (latitude of Ankara, Turkey)
+Enter longitude of first point: 32.8541 (longitude of Ankara,Turkey)
+Enter latitude of second point: 41.0082 (latitude of Istanbul, Turkey)
+Enter longitude of second point: 28.9784 (longitude of Istanbul, Turkey)
 Distance between the two points: 8057.12 km
 ```
 
